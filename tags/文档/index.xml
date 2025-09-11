@@ -1,11 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>文档 on Blowfish</title><link>https://michaelyang628.github.io/blog/tags/%E6%96%87%E6%A1%A3/</link><description>Recent content in 文档 on Blowfish</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2025 Blowfish</copyright><atom:link href="https://michaelyang628.github.io/blog/tags/%E6%96%87%E6%A1%A3/index.xml" rel="self" type="application/rss+xml"/><item><title>搭建家用服务器</title><link>https://michaelyang628.github.io/blog/docs/welcome/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/welcome/</guid><description>&lt;p&gt;设备：raspberry pi 4b
-os: Ubuntu Server 20.04.2 LTS 32-bit
-&lt;figure&gt;
-&lt;img class="my-0 rounded-md" loading="lazy" alt="" src="https://img2020.cnblogs.com/blog/1934119/202102/1934119-20210201225319092-888454909.png"&gt;
-&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;检查可用的软件包更新&lt;/strong&gt;
-&lt;code&gt;sudo apt update&lt;/code&gt;&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/welcome/featured.svg"/></item><item><title>安装和配置</title><link>https://michaelyang628.github.io/blog/docs/installation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/installation/</guid><description>&lt;p&gt;如果想快速上手，可以按照标准的 Hugo &lt;a
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>文档 on Blowfish</title><link>https://michaelyang628.github.io/blog/tags/%E6%96%87%E6%A1%A3/</link><description>Recent content in 文档 on Blowfish</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2025 Blowfish</copyright><atom:link href="https://michaelyang628.github.io/blog/tags/%E6%96%87%E6%A1%A3/index.xml" rel="self" type="application/rss+xml"/><item><title>安装和配置</title><link>https://michaelyang628.github.io/blog/docs/installation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/installation/</guid><description>&lt;p&gt;如果想快速上手，可以按照标准的 Hugo &lt;a
 href="https://gohugo.io/getting-started/quick-start/"
 target="_blank"
 &gt;快速启动&lt;/a&gt; 文档。&lt;/p&gt;
