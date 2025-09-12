@@ -5,7 +5,7 @@ os: Ubuntu Server 20.04.2 LTS 32-bit
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;检查可用的软件包更新&lt;/strong&gt;
-&lt;code&gt;sudo apt update&lt;/code&gt;&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/welcome/featured.svg"/></item><item><title>安装和配置</title><link>https://michaelyang628.github.io/blog/docs/installation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/installation/</guid><description>&lt;p&gt;如果想快速上手，可以按照标准的 Hugo &lt;a
+&lt;code&gt;sudo apt update&lt;/code&gt;&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/welcome/featured.png"/></item><item><title>安装和配置</title><link>https://michaelyang628.github.io/blog/docs/installation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/installation/</guid><description>&lt;p&gt;如果想快速上手，可以按照标准的 Hugo &lt;a
 href="https://gohugo.io/getting-started/quick-start/"
 target="_blank"
 &gt;快速启动&lt;/a&gt; 文档。&lt;/p&gt;
