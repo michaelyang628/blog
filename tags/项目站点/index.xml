@@ -1,8 +1,72 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>项目站点 on Demiox</title><link>https://michaelyang628.github.io/blog/tags/%E9%A1%B9%E7%9B%AE%E7%AB%99%E7%82%B9/</link><description>Recent content in 项目站点 on Demiox</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2025 demiox</copyright><atom:link href="https://michaelyang628.github.io/blog/tags/%E9%A1%B9%E7%9B%AE%E7%AB%99%E7%82%B9/index.xml" rel="self" type="application/rss+xml"/><item><title>搭建家用服务器</title><link>https://michaelyang628.github.io/blog/docs/welcome/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/welcome/</guid><description>&lt;p&gt;设备：raspberry pi 4b
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>项目站点 on Demiox</title><link>https://michaelyang628.github.io/blog/tags/%E9%A1%B9%E7%9B%AE%E7%AB%99%E7%82%B9/</link><description>Recent content in 项目站点 on Demiox</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2025 demiox</copyright><atom:link href="https://michaelyang628.github.io/blog/tags/%E9%A1%B9%E7%9B%AE%E7%AB%99%E7%82%B9/index.xml" rel="self" type="application/rss+xml"/><item><title>如何搭建家用服务器</title><link>https://michaelyang628.github.io/blog/docs/welcome/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/welcome/</guid><description>&lt;p&gt;设备：raspberry pi 4b
 os: Ubuntu Server 20.04.2 LTS 32-bit
 &lt;figure&gt;
 &lt;img class="my-0 rounded-md" loading="lazy" alt="" src="https://img2020.cnblogs.com/blog/1934119/202102/1934119-20210201225319092-888454909.png"&gt;
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;检查可用的软件包更新&lt;/strong&gt;
-&lt;code&gt;sudo apt update&lt;/code&gt;&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/welcome/featured.png"/></item><item><title>m3upt.com</title><link>https://michaelyang628.github.io/blog/users/4d4fb24dca11a144122fa0bb831d9d03/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/users/4d4fb24dca11a144122fa0bb831d9d03/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/users/4d4fb24dca11a144122fa0bb831d9d03/feature.jpg"/></item></channel></rss>
+&lt;code&gt;sudo apt update&lt;/code&gt;&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/welcome/featured.png"/></item><item><title>实现通过网络，为无硬盘客户机安装系统到服务器的iSCSI目标中并启动</title><link>https://michaelyang628.github.io/blog/docs/installation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/installation/</guid><description>&lt;h2 class="relative group"&gt;背景
+&lt;div id="背景" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e8%83%8c%e6%99%af" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;h2 class="relative group"&gt;准备
+&lt;div id="准备" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%87%86%e5%a4%87" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;h3 class="relative group"&gt;服务器
+&lt;div id="服务器" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e6%9c%8d%e5%8a%a1%e5%99%a8" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;搭建DHCP服务&lt;/li&gt;
+&lt;li&gt;搭建TFTP服务&lt;/li&gt;
+&lt;li&gt;搭建HTTP服务&lt;/li&gt;
+&lt;li&gt;搭建SMB服务&lt;/li&gt;
+&lt;li&gt;搭建NFS服务&lt;/li&gt;
+&lt;li&gt;搭建iSCSI服务&lt;/li&gt;
+&lt;li&gt;编译&lt;a
+href="https://ipxe.org/"
+target="_blank"
+&gt;iPXE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;下载&lt;a
+href="https://github.com/ipxe/wimboot"
+target="_blank"
+&gt;wimboot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;构建&lt;a
+href="https://learn.microsoft.com/zh-cn/windows-hardware/manufacture/desktop/winpe-intro?view=windows-11"
+target="_blank"
+&gt;WinPE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;下载Windows安装包&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 class="relative group"&gt;客户端
+&lt;div id="客户端" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%ae%a2%e6%88%b7%e7%ab%af" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;
+&lt;h2 class="relative group"&gt;任务
+&lt;div id="任务" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e4%bb%bb%e5%8a%a1" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;h3 class="relative group"&gt;搭建DHCP服务
+&lt;div id="搭建dhcp服务" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e6%90%ad%e5%bb%badhcp%e6%9c%8d%e5%8a%a1" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;DHCP（Dynamic Host Configuration Protocol 动态主机配置协议），是一个用于IP网络的网络协议，位于OSI模型的应用层，使用UDP协议工作，主要有两个用途：&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/installation/featured.svg"/></item><item><title>m3upt.com</title><link>https://michaelyang628.github.io/blog/users/4d4fb24dca11a144122fa0bb831d9d03/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/users/4d4fb24dca11a144122fa0bb831d9d03/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/users/4d4fb24dca11a144122fa0bb831d9d03/feature.jpg"/></item></channel></rss>
