@@ -1,1 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>主页 on Demiox</title><link>https://michaelyang628.github.io/blog/tags/%E4%B8%BB%E9%A1%B5/</link><description>Recent content in 主页 on Demiox</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2025 Demiox</copyright><atom:link href="https://michaelyang628.github.io/blog/tags/%E4%B8%BB%E9%A1%B5/index.xml" rel="self" type="application/rss+xml"/><item><title>主页布局</title><link>https://michaelyang628.github.io/blog/docs/homepage-layout/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/homepage-layout/</guid><description>&lt;p&gt;Blowfish 提供了一个完全灵活的主页布局。你可以选择两种主要模板，并提供了额外的参数来帮助调整设计。当然，你也可以提供自己的模板，完全控制主页的内容。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/homepage-layout/featured.svg"/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>主页 on Demiox</title><link>https://michaelyang628.github.io/blog/tags/%E4%B8%BB%E9%A1%B5/</link><description>Recent content in 主页 on Demiox</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2025 Demiox</copyright><atom:link href="https://michaelyang628.github.io/blog/tags/%E4%B8%BB%E9%A1%B5/index.xml" rel="self" type="application/rss+xml"/><item><title>ROS2(Galactic)中等程度者教程</title><link>https://michaelyang628.github.io/blog/docs/homepage-layout/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/homepage-layout/</guid><description>&lt;h2 class="relative group"&gt;使用rosdep管理依赖关系
+&lt;div id="使用rosdep管理依赖关系" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e4%bd%bf%e7%94%a8rosdep%e7%ae%a1%e7%90%86%e4%be%9d%e8%b5%96%e5%85%b3%e7%b3%bb" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;h3 class="relative group"&gt;rosdep是什么
+&lt;div id="rosdep是什么" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#rosdep%e6%98%af%e4%bb%80%e4%b9%88" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;rosdep&lt;/strong&gt;是&lt;strong&gt;ROS&lt;/strong&gt;管理依赖项的实用程序，可以与&lt;strong&gt;ROS&lt;/strong&gt;包和外部库一起工作。
+&lt;strong&gt;rosdep&lt;/strong&gt;是一个命令行实用程序，用于识别和安装构建或安装包的依赖项。
+在以下情况下可以调用或被调用：&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/homepage-layout/featured.svg"/></item></channel></rss>
