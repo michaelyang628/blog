@@ -103,7 +103,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/h3&gt;
 &lt;p&gt;ROS 2中的启动系统负责帮助用户描述其系统的配置，然后按所述执行。系统的配置包括要运行什么程序、在哪里运行它们、传递它们的参数，以及ROS特定的约定，这些约定通过为每个组件提供不同的配置，使得在整个系统中重用组件变得容易。它还负责监测启动的进程的状态，并报告和/或对这些进程的状态变化作出反应。
 用Python、XML或YAML编写的启动文件可以启动和停止不同的节点，也可以触发和处理各种事件。有关不同格式的描述，请参见使用Python、XML和YAML for ROS 2启动文件。提供此框架的包是launch_ros，它使用下面的非ros特定的启动框架。
-设计文件详细说明了ROS 2发射系统的设计目标（目前并非所有功能都可用）。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/thumbnails/featured.svg"/></item><item><title>Ubuntu基于ROS 2 （Galactic Geochelone，银河系象龟）开发机器人</title><link>https://michaelyang628.github.io/blog/docs/series/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/series/</guid><description>&lt;h2 class="relative group"&gt;开发环境
+设计文件详细说明了ROS 2发射系统的设计目标（目前并非所有功能都可用）。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/thumbnails/featured.svg"/></item><item><title>基于ROS2开发机器人</title><link>https://michaelyang628.github.io/blog/docs/series/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/series/</guid><description>&lt;h2 class="relative group"&gt;开发环境
 &lt;div id="开发环境" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none"&gt;
@@ -111,10 +111,10 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/span&gt;
 &lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;OS : Ubuntu 20.04.05 LTS (Focal Fossa 专注的狸貓)&lt;/li&gt;
-&lt;li&gt;CE : Visual Studio Code 1.71&lt;/li&gt;
+&lt;li&gt;OS : Ubuntu 24.04.3 LTS (Noble Numbat，尊贵的袋食蚁兽)&lt;/li&gt;
+&lt;li&gt;CE : Visual Studio Code 1.104.0&lt;/li&gt;
 &lt;li&gt;PL : C++ 11 &amp;amp;&amp;amp; Python 3.8&lt;/li&gt;
-&lt;li&gt;frameworks : ROS2&lt;/li&gt;
+&lt;li&gt;META-OS : ROS2（Jazzy Jalisco，爵士哈里斯科）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 class="relative group"&gt;ROS简介
 &lt;div id="ros简介" class="anchor"&gt;&lt;/div&gt;
@@ -123,4 +123,6 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#ros%e7%ae%80%e4%bb%8b" aria-label="锚点"&gt;#&lt;/a&gt;
 &lt;/span&gt;
 &lt;/h2&gt;
-&lt;p&gt;ROS（Robot Operating System，机器人操作系统）是一个面向于机器人的开源元操作系统。它提供了操作系统应有的核心服务，为软件开发人员提供了一系列库和工具，用于构建机器人应用程序。该系统具备以下核心功能：&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/series/featured.svg"/></item><item><title>进阶自定义</title><link>https://michaelyang628.github.io/blog/docs/advanced-customisation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/advanced-customisation/</guid><description>&lt;p&gt;您可以通过多种方式对 Blowfish 进行高级自定义。请阅读下文，了解更多可自定义的内容以及实现想要效果的最佳方法。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/advanced-customisation/featured.svg"/></item><item><title>托管和部署</title><link>https://michaelyang628.github.io/blog/docs/hosting-deployment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/hosting-deployment/</guid><description>&lt;p&gt;有许多方法可以部署基于 Blowfish 主题的 Hugo 网站。这个主题几乎在任何部署场景中都很灵活。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/hosting-deployment/featured.svg"/></item><item><title>merox.dev</title><link>https://michaelyang628.github.io/blog/users/080a851b486ff5be4201f6fbe1f9616d/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/users/080a851b486ff5be4201f6fbe1f9616d/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/users/080a851b486ff5be4201f6fbe1f9616d/feature.jpg"/></item></channel></rss>
+&lt;blockquote&gt;
+&lt;p&gt;ROS（Robot Operating System，机器人操作系统）是一个面向于机器人的开源元操作系统。
+它提供了操作系统应有的核心服务，为软件开发人员提供了一系列库和工具，用于构建机器人应用程序。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/series/featured.svg"/></item><item><title>进阶自定义</title><link>https://michaelyang628.github.io/blog/docs/advanced-customisation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/advanced-customisation/</guid><description>&lt;p&gt;您可以通过多种方式对 Blowfish 进行高级自定义。请阅读下文，了解更多可自定义的内容以及实现想要效果的最佳方法。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/advanced-customisation/featured.svg"/></item><item><title>托管和部署</title><link>https://michaelyang628.github.io/blog/docs/hosting-deployment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/hosting-deployment/</guid><description>&lt;p&gt;有许多方法可以部署基于 Blowfish 主题的 Hugo 网站。这个主题几乎在任何部署场景中都很灵活。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/hosting-deployment/featured.svg"/></item><item><title>merox.dev</title><link>https://michaelyang628.github.io/blog/users/080a851b486ff5be4201f6fbe1f9616d/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/users/080a851b486ff5be4201f6fbe1f9616d/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/users/080a851b486ff5be4201f6fbe1f9616d/feature.jpg"/></item></channel></rss>
