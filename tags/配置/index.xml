@@ -86,10 +86,21 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;colcon&lt;/strong&gt;是ROS构建工具&lt;strong&gt;catkin_make&lt;/strong&gt;、&lt;strong&gt;catkin_make_isolated&lt;/strong&gt;、&lt;strong&gt;catkin_tools&lt;/strong&gt;和&lt;strong&gt;ament_tools&lt;/strong&gt;的迭代。
 有关colcon设计的更多信息，请参阅本文档。
-源代码可以在&lt;strong&gt;colcon GitHub&lt;/strong&gt;组织中找到。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/configuration/featured.svg"/></item><item><title>Front Matter(文件头信息)</title><link>https://michaelyang628.github.io/blog/docs/front-matter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/front-matter/</guid><description>&lt;p&gt;除了 &lt;a
-href="https://gohugo.io/content-management/front-matter/#front-matter-variables"
-target="_blank"
-&gt;Hugo 中默认的 front matter&lt;/a&gt;，Blowfish 主题中还添加了大量的参数选项来自定义单个页面的展示方式。所有可用的扉页参数如下。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/front-matter/featured.svg"/></item><item><title>多创作者模式</title><link>https://michaelyang628.github.io/blog/docs/multi-author/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/multi-author/</guid><description>&lt;p&gt;一个网站会有多个创作者共同贡献内容，所以需要再整个网站中默认使用多创作者。对于这种情况，Blowfish 允许用户使用多创作者功能拓展创作者列表。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/multi-author/featured.svg"/></item><item><title>缩略图</title><link>https://michaelyang628.github.io/blog/docs/thumbnails/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/thumbnails/</guid><description>&lt;h2 class="relative group"&gt;缩略图
+源代码可以在&lt;strong&gt;colcon GitHub&lt;/strong&gt;组织中找到。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/configuration/featured.svg"/></item><item><title>部署轻量应用服务器教程</title><link>https://michaelyang628.github.io/blog/docs/front-matter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/front-matter/</guid><description>&lt;p&gt;确保软件包列表和已安装的软件包是最新的。
+&lt;code&gt;sudo apt update&lt;/code&gt;
+&lt;code&gt;sudo apt upgrade&lt;/code&gt;&lt;/p&gt;
+&lt;h2 class="relative group"&gt;安装和配置php
+&lt;div id="安装和配置php" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%ae%89%e8%a3%85%e5%92%8c%e9%85%8d%e7%bd%aephp" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;sudo apt show php&lt;/code&gt;
+&lt;code&gt;sudo apt install php-fpm&lt;/code&gt;
+&lt;code&gt;sudo apt install php-dom&lt;/code&gt;
+&lt;code&gt;sudo apt install php-curl&lt;/code&gt;
+&lt;code&gt;php -v&lt;/code&gt;&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/front-matter/featured.svg"/></item><item><title>多创作者模式</title><link>https://michaelyang628.github.io/blog/docs/multi-author/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/multi-author/</guid><description>&lt;p&gt;一个网站会有多个创作者共同贡献内容，所以需要再整个网站中默认使用多创作者。对于这种情况，Blowfish 允许用户使用多创作者功能拓展创作者列表。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/multi-author/featured.svg"/></item><item><title>缩略图</title><link>https://michaelyang628.github.io/blog/docs/thumbnails/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/thumbnails/</guid><description>&lt;h2 class="relative group"&gt;缩略图
 &lt;div id="缩略图" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none"&gt;
