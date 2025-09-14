@@ -80,14 +80,15 @@ tf2在时间上缓冲的树结构中维持坐标帧之间的关系，并允许�
 &lt;figure&gt;
 &lt;img class="my-0 rounded-md" loading="lazy" alt="" src="https://img2022.cnblogs.com/blog/1934119/202211/1934119-20221109160918264-990133187.png"&gt;
 &lt;/figure&gt;
-&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/multi-author/featured.svg"/></item><item><title>局部模板(Partials)</title><link>https://michaelyang628.github.io/blog/docs/partials/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/partials/</guid><description>&lt;h2 class="relative group"&gt;站点分析
-&lt;div id="站点分析" class="anchor"&gt;&lt;/div&gt;
+&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/multi-author/featured.svg"/></item><item><title>ROS2(Galactic) URDF教程</title><link>https://michaelyang628.github.io/blog/docs/partials/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/partials/</guid><description>&lt;h2 class="relative group"&gt;从零开始构建机器人可视的模型
+&lt;div id="从零开始构建机器人可视的模型" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none"&gt;
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e7%ab%99%e7%82%b9%e5%88%86%e6%9e%90" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e4%bb%8e%e9%9b%b6%e5%bc%80%e5%a7%8b%e6%9e%84%e5%bb%ba%e6%9c%ba%e5%99%a8%e4%ba%ba%e5%8f%af%e8%a7%86%e7%9a%84%e6%a8%a1%e5%9e%8b" aria-label="锚点"&gt;#&lt;/a&gt;
 &lt;/span&gt;
 &lt;/h2&gt;
-&lt;p&gt;Blowfish 支持了 Fathom、Google 和 Umami。Fathom 和 Umami 都是开源、简单、且注重隐私的站点分析服务，他们可以很好地替代 Google 分析。Fathom 和 Umami 都有公有云的付费版本，当然你也可以自己手动部署开源版。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/partials/featured.svg"/></item><item><title>缩略图</title><link>https://michaelyang628.github.io/blog/docs/thumbnails/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/thumbnails/</guid><description>&lt;h2 class="relative group"&gt;缩略图
+&lt;p&gt;在本教程中，我们将构建一个机器人可视的模型，该模型看起来很像&lt;strong&gt;R2D2&lt;/strong&gt;。
+在后面的教程中，你将学习如何清晰地表达模型，添加一些物理属性，并使用xacro生成更整洁的代码，但目前，我们将重点关注视觉几何结构的正确性。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/partials/featured.svg"/></item><item><title>缩略图</title><link>https://michaelyang628.github.io/blog/docs/thumbnails/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/thumbnails/</guid><description>&lt;h2 class="relative group"&gt;缩略图
 &lt;div id="缩略图" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none"&gt;
