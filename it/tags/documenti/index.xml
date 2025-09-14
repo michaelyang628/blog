@@ -14,7 +14,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#installazione" aria-label="Ancora"&gt;#&lt;/a&gt;
 &lt;/span&gt;
 &lt;/h2&gt;
-&lt;p&gt;Queste istruzioni ti consentiranno di iniziare a utilizzare Hugo e Blowfish partendo da uno stato completamente vuoto. La maggior parte delle dipendenze menzionate in questa guida possono essere installate utilizzando il gestore pacchetti corretti per la tua piattaforma.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/installation/featured.svg"/></item><item><title>Per iniziare</title><link>https://michaelyang628.github.io/blog/it/docs/per-iniziare/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/it/docs/per-iniziare/</guid><description>&lt;div
+&lt;p&gt;Queste istruzioni ti consentiranno di iniziare a utilizzare Hugo e Blowfish partendo da uno stato completamente vuoto. La maggior parte delle dipendenze menzionate in questa guida possono essere installate utilizzando il gestore pacchetti corretti per la tua piattaforma.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/installation/featured.png"/></item><item><title>Per iniziare</title><link>https://michaelyang628.github.io/blog/it/docs/per-iniziare/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/it/docs/per-iniziare/</guid><description>&lt;div
 class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
 &gt;
 &lt;span
@@ -42,4 +42,4 @@ class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
 &lt;/span&gt;
 &lt;span
 class="dark:text-neutral-300"
-&gt;&lt;p&gt;Abbiamo appena lanciato uno strumento CLI per aiutarvi a iniziare con Blowfish. Vi aiuterà con l&amp;rsquo;installazione e la configurazione. Installate lo strumento CLI a livello globale utilizzando:&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/getting-started/featured.svg"/></item></channel></rss>
+&gt;&lt;p&gt;Abbiamo appena lanciato uno strumento CLI per aiutarvi a iniziare con Blowfish. Vi aiuterà con l&amp;rsquo;installazione e la configurazione. Installate lo strumento CLI a livello globale utilizzando:&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/getting-started/featured.png"/></item></channel></rss>

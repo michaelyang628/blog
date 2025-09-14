@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Installation on Blowfish</title><link>https://michaelyang628.github.io/blog/ja/tags/installation/</link><description>Recent content in Installation on Blowfish</description><generator>Hugo -- gohugo.io</generator><language>ja</language><managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor><webMaster>nuno@n9o.xyz (Blowfish)</webMaster><copyright>© 2025 Blowfish</copyright><atom:link href="https://michaelyang628.github.io/blog/ja/tags/installation/index.xml" rel="self" type="application/rss+xml"/><item><title>インストール</title><link>https://michaelyang628.github.io/blog/ja/docs/installation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://michaelyang628.github.io/blog/ja/docs/installation/</guid><description>&lt;p&gt;Hugo の&lt;a
 href="https://gohugo.io/getting-started/quick-start/"
 target="_blank"
-&gt;クイックスタートガイド&lt;/a&gt;に従うだけで、簡単に使い始めることができます。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/installation/featured.svg"/></item><item><title>始める</title><link>https://michaelyang628.github.io/blog/ja/docs/getting-started/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://michaelyang628.github.io/blog/ja/docs/getting-started/</guid><description>&lt;div
+&gt;クイックスタートガイド&lt;/a&gt;に従うだけで、簡単に使い始めることができます。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/installation/featured.png"/></item><item><title>始める</title><link>https://michaelyang628.github.io/blog/ja/docs/getting-started/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://michaelyang628.github.io/blog/ja/docs/getting-started/</guid><description>&lt;div
 class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
 &gt;
 &lt;span
@@ -29,4 +29,4 @@ class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
 &lt;/span&gt;
 &lt;span
 class="dark:text-neutral-300"
-&gt;&lt;p&gt;Blowfish の使用開始を支援する CLI ツールをリリースしました。インストールと設定に役立ちます。次のコマンドで CLI ツールをグローバルにインストールします。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/getting-started/featured.svg"/></item></channel></rss>
+&gt;&lt;p&gt;Blowfish の使用開始を支援する CLI ツールをリリースしました。インストールと設定に役立ちます。次のコマンドで CLI ツールをグローバルにインストールします。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/getting-started/featured.png"/></item></channel></rss>

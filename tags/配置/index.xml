@@ -70,7 +70,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;DHCP（Dynamic Host Configuration Protocol 动态主机配置协议），是一个用于IP网络的网络协议，位于OSI模型的应用层，使用UDP协议工作，基于UDP的67和68端口进行通信。
-主要有两个用途：&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/installation/featured.svg"/></item><item><title>ROS2(Galactic)初学者教程(下)</title><link>https://michaelyang628.github.io/blog/docs/configuration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/configuration/</guid><description>&lt;h2 class="relative group"&gt;使用colcon构建包
+主要有两个用途：&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/installation/featured.png"/></item><item><title>ROS2(Galactic)初学者教程(下)</title><link>https://michaelyang628.github.io/blog/docs/configuration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/configuration/</guid><description>&lt;h2 class="relative group"&gt;使用colcon构建包
 &lt;div id="使用colcon构建包" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none"&gt;
@@ -86,7 +86,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;colcon&lt;/strong&gt;是ROS构建工具&lt;strong&gt;catkin_make&lt;/strong&gt;、&lt;strong&gt;catkin_make_isolated&lt;/strong&gt;、&lt;strong&gt;catkin_tools&lt;/strong&gt;和&lt;strong&gt;ament_tools&lt;/strong&gt;的迭代。
 有关colcon设计的更多信息，请参阅本文档。
-源代码可以在&lt;strong&gt;colcon GitHub&lt;/strong&gt;组织中找到。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/configuration/featured.svg"/></item><item><title>部署轻量应用服务器教程</title><link>https://michaelyang628.github.io/blog/docs/front-matter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/front-matter/</guid><description>&lt;p&gt;确保软件包列表和已安装的软件包是最新的。
+源代码可以在&lt;strong&gt;colcon GitHub&lt;/strong&gt;组织中找到。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/configuration/featured.png"/></item><item><title>部署轻量应用服务器教程</title><link>https://michaelyang628.github.io/blog/docs/front-matter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/front-matter/</guid><description>&lt;p&gt;确保软件包列表和已安装的软件包是最新的。
 &lt;code&gt;sudo apt update&lt;/code&gt;
 &lt;code&gt;sudo apt upgrade&lt;/code&gt;&lt;/p&gt;
 &lt;h2 class="relative group"&gt;安装和配置php
@@ -100,7 +100,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;code&gt;sudo apt install php-fpm&lt;/code&gt;
 &lt;code&gt;sudo apt install php-dom&lt;/code&gt;
 &lt;code&gt;sudo apt install php-curl&lt;/code&gt;
-&lt;code&gt;php -v&lt;/code&gt;&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/front-matter/featured.svg"/></item><item><title>ROS2(Galactic) TF2教程</title><link>https://michaelyang628.github.io/blog/docs/multi-author/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/multi-author/</guid><description>&lt;h2 class="relative group"&gt;介绍TF2
+&lt;code&gt;php -v&lt;/code&gt;&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/front-matter/featured.png"/></item><item><title>ROS2(Galactic) TF2教程</title><link>https://michaelyang628.github.io/blog/docs/multi-author/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/multi-author/</guid><description>&lt;h2 class="relative group"&gt;介绍TF2
 &lt;div id="介绍tf2" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none"&gt;
@@ -119,7 +119,7 @@ tf2在时间上缓冲的树结构中维持坐标帧之间的关系，并允许�
 &lt;figure&gt;
 &lt;img class="my-0 rounded-md" loading="lazy" alt="" src="https://img2022.cnblogs.com/blog/1934119/202211/1934119-20221109160918264-990133187.png"&gt;
 &lt;/figure&gt;
-&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/multi-author/featured.svg"/></item><item><title>ROS2(Galactic) Launch系统</title><link>https://michaelyang628.github.io/blog/docs/thumbnails/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/thumbnails/</guid><description>&lt;p&gt;发射&lt;/p&gt;
+&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/multi-author/featured.png"/></item><item><title>ROS2(Galactic) Launch系统</title><link>https://michaelyang628.github.io/blog/docs/thumbnails/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/thumbnails/</guid><description>&lt;p&gt;发射&lt;/p&gt;
 &lt;h2 class="relative group"&gt;创建启动文件
 &lt;div id="创建启动文件" class="anchor"&gt;&lt;/div&gt;
 &lt;span

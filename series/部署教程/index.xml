@@ -13,7 +13,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/span&gt;
 &lt;/h2&gt;
 &lt;p&gt;Turtlesim是一款用于学习ROS 2的轻量级模拟器。
-它演示了ROS 2在最基本的级别上的功能，让您了解稍后将如何使用真实的机器人或机器人模拟。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/getting-started/featured.svg"/></item><item><title>ROS2(Galactic)初学者教程(下)</title><link>https://michaelyang628.github.io/blog/docs/configuration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/configuration/</guid><description>&lt;h2 class="relative group"&gt;使用colcon构建包
+它演示了ROS 2在最基本的级别上的功能，让您了解稍后将如何使用真实的机器人或机器人模拟。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/getting-started/featured.png"/></item><item><title>ROS2(Galactic)初学者教程(下)</title><link>https://michaelyang628.github.io/blog/docs/configuration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/configuration/</guid><description>&lt;h2 class="relative group"&gt;使用colcon构建包
 &lt;div id="使用colcon构建包" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none"&gt;
@@ -29,7 +29,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;colcon&lt;/strong&gt;是ROS构建工具&lt;strong&gt;catkin_make&lt;/strong&gt;、&lt;strong&gt;catkin_make_isolated&lt;/strong&gt;、&lt;strong&gt;catkin_tools&lt;/strong&gt;和&lt;strong&gt;ament_tools&lt;/strong&gt;的迭代。
 有关colcon设计的更多信息，请参阅本文档。
-源代码可以在&lt;strong&gt;colcon GitHub&lt;/strong&gt;组织中找到。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/configuration/featured.svg"/></item><item><title>ROS2(Galactic)中等程度者教程</title><link>https://michaelyang628.github.io/blog/docs/homepage-layout/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/homepage-layout/</guid><description>&lt;h2 class="relative group"&gt;使用rosdep管理依赖关系
+源代码可以在&lt;strong&gt;colcon GitHub&lt;/strong&gt;组织中找到。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/configuration/featured.png"/></item><item><title>ROS2(Galactic)中等程度者教程</title><link>https://michaelyang628.github.io/blog/docs/homepage-layout/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/homepage-layout/</guid><description>&lt;h2 class="relative group"&gt;使用rosdep管理依赖关系
 &lt;div id="使用rosdep管理依赖关系" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none"&gt;
@@ -61,7 +61,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;code&gt;sudo apt install php-fpm&lt;/code&gt;
 &lt;code&gt;sudo apt install php-dom&lt;/code&gt;
 &lt;code&gt;sudo apt install php-curl&lt;/code&gt;
-&lt;code&gt;php -v&lt;/code&gt;&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/front-matter/featured.svg"/></item><item><title>ROS2(Galactic) TF2教程</title><link>https://michaelyang628.github.io/blog/docs/multi-author/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/multi-author/</guid><description>&lt;h2 class="relative group"&gt;介绍TF2
+&lt;code&gt;php -v&lt;/code&gt;&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/front-matter/featured.png"/></item><item><title>ROS2(Galactic) TF2教程</title><link>https://michaelyang628.github.io/blog/docs/multi-author/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/multi-author/</guid><description>&lt;h2 class="relative group"&gt;介绍TF2
 &lt;div id="介绍tf2" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none"&gt;
@@ -80,7 +80,7 @@ tf2在时间上缓冲的树结构中维持坐标帧之间的关系，并允许�
 &lt;figure&gt;
 &lt;img class="my-0 rounded-md" loading="lazy" alt="" src="https://img2022.cnblogs.com/blog/1934119/202211/1934119-20221109160918264-990133187.png"&gt;
 &lt;/figure&gt;
-&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/multi-author/featured.svg"/></item><item><title>ROS2(Galactic) URDF教程</title><link>https://michaelyang628.github.io/blog/docs/partials/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/partials/</guid><description>&lt;h2 class="relative group"&gt;从零开始构建机器人可视的模型
+&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/multi-author/featured.png"/></item><item><title>ROS2(Galactic) URDF教程</title><link>https://michaelyang628.github.io/blog/docs/partials/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/partials/</guid><description>&lt;h2 class="relative group"&gt;从零开始构建机器人可视的模型
 &lt;div id="从零开始构建机器人可视的模型" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none"&gt;
