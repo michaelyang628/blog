@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>内容 on Demiox</title><link>https://michaelyang628.github.io/blog/tags/%E5%86%85%E5%AE%B9/</link><description>Recent content in 内容 on Demiox</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2025 Demiox</copyright><atom:link href="https://michaelyang628.github.io/blog/tags/%E5%86%85%E5%AE%B9/index.xml" rel="self" type="application/rss+xml"/><item><title>内容示例</title><link>https://michaelyang628.github.io/blog/docs/content-examples/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/content-examples/</guid><description>&lt;p&gt;如果你已经按顺序阅读了文档，那么你现在应该已经了解了 Blowfish 中所有的功能和配置信息。这个页面旨在把所有内容整合在一起，并提供一些你会在 Hugo 项目中使用的示例。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/content-examples/featured.svg"/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>内容 on Demiox</title><link>https://michaelyang628.github.io/blog/tags/%E5%86%85%E5%AE%B9/</link><description>Recent content in 内容 on Demiox</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2025 Demiox</copyright><atom:link href="https://michaelyang628.github.io/blog/tags/%E5%86%85%E5%AE%B9/index.xml" rel="self" type="application/rss+xml"/><item><title>MoveIt2(ROS2 Galactic)初学者教程</title><link>https://michaelyang628.github.io/blog/docs/content-examples/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/content-examples/</guid><description>&lt;p&gt;有关专家培训，请参阅我们更广泛的&lt;a
+href="https://moveit.picknik.ai/humble/doc/examples/examples.html"
+target="_blank"
+&gt;示例&lt;/a&gt;。&lt;/p&gt;
+&lt;h2 class="relative group"&gt;入门
+&lt;div id="入门" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%85%a5%e9%97%a8" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;p&gt;本教程将安装MoveIt 2并创建一个工作区沙盒，以运行教程和示例机器人。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/content-examples/featured.svg"/></item></channel></rss>
