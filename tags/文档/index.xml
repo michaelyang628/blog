@@ -45,7 +45,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;rosdep&lt;/strong&gt;是&lt;strong&gt;ROS&lt;/strong&gt;管理依赖项的实用程序，可以与&lt;strong&gt;ROS&lt;/strong&gt;包和外部库一起工作。
 &lt;strong&gt;rosdep&lt;/strong&gt;是一个命令行实用程序，用于识别和安装构建或安装包的依赖项。
-在以下情况下可以调用或被调用：&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/homepage-layout/featured.svg"/></item><item><title>部署轻量应用服务器教程</title><link>https://michaelyang628.github.io/blog/docs/front-matter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/front-matter/</guid><description>&lt;p&gt;确保软件包列表和已安装的软件包是最新的。
+在以下情况下可以调用或被调用：&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/homepage-layout/featured.png"/></item><item><title>部署轻量应用服务器教程</title><link>https://michaelyang628.github.io/blog/docs/front-matter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/front-matter/</guid><description>&lt;p&gt;确保软件包列表和已安装的软件包是最新的。
 &lt;code&gt;sudo apt update&lt;/code&gt;
 &lt;code&gt;sudo apt upgrade&lt;/code&gt;&lt;/p&gt;
 &lt;h2 class="relative group"&gt;安装和配置php

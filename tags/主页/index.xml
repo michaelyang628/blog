@@ -14,4 +14,4 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;rosdep&lt;/strong&gt;是&lt;strong&gt;ROS&lt;/strong&gt;管理依赖项的实用程序，可以与&lt;strong&gt;ROS&lt;/strong&gt;包和外部库一起工作。
 &lt;strong&gt;rosdep&lt;/strong&gt;是一个命令行实用程序，用于识别和安装构建或安装包的依赖项。
-在以下情况下可以调用或被调用：&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/homepage-layout/featured.svg"/></item></channel></rss>
+在以下情况下可以调用或被调用：&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/homepage-layout/featured.png"/></item></channel></rss>
