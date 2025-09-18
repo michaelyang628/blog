@@ -6,4 +6,4 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/span&gt;
 &lt;/h2&gt;
 &lt;p&gt;在本教程中，我们将构建一个机器人可视的模型，该模型看起来很像&lt;strong&gt;R2D2&lt;/strong&gt;。
-在后面的教程中，你将学习如何清晰地表达模型，添加一些物理属性，并使用xacro生成更整洁的代码，但目前，我们将重点关注视觉几何结构的正确性。&lt;/p&gt;</description></item><item><title>简码示例</title><link>https://michaelyang628.github.io/blog/samples/rich-content/</link><pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/samples/rich-content/</guid><description>这是&lt;strong&gt;简码&lt;/strong&gt;内容的示例。</description></item></channel></rss>
+在后面的教程中，你将学习如何清晰地表达模型，添加一些物理属性，并使用xacro生成更整洁的代码，但目前，我们将重点关注视觉几何结构的正确性。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/partials/featured.png"/></item><item><title>简码示例</title><link>https://michaelyang628.github.io/blog/samples/rich-content/</link><pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/samples/rich-content/</guid><description>这是&lt;strong&gt;简码&lt;/strong&gt;内容的示例。</description></item></channel></rss>
