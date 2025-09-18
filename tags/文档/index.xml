@@ -103,7 +103,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/h3&gt;
 &lt;p&gt;ROS 2中的启动系统负责帮助用户描述其系统的配置，然后按所述执行。系统的配置包括要运行什么程序、在哪里运行它们、传递它们的参数，以及ROS特定的约定，这些约定通过为每个组件提供不同的配置，使得在整个系统中重用组件变得容易。它还负责监测启动的进程的状态，并报告和/或对这些进程的状态变化作出反应。
 用Python、XML或YAML编写的启动文件可以启动和停止不同的节点，也可以触发和处理各种事件。有关不同格式的描述，请参见使用Python、XML和YAML for ROS 2启动文件。提供此框架的包是launch_ros，它使用下面的非ros特定的启动框架。
-设计文件详细说明了ROS 2发射系统的设计目标（目前并非所有功能都可用）。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/thumbnails/featured.svg"/></item><item><title>基于ROS2开发机器人</title><link>https://michaelyang628.github.io/blog/docs/series/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/series/</guid><description>&lt;h2 class="relative group"&gt;开发环境
+设计文件详细说明了ROS 2发射系统的设计目标（目前并非所有功能都可用）。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/thumbnails/featured.png"/></item><item><title>基于ROS2开发机器人</title><link>https://michaelyang628.github.io/blog/docs/series/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/series/</guid><description>&lt;h2 class="relative group"&gt;开发环境
 &lt;div id="开发环境" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none"&gt;
