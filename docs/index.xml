@@ -152,7 +152,7 @@ tf2在时间上缓冲的树结构中维持坐标帧之间的关系，并允许�
 &lt;figure&gt;
 &lt;img class="my-0 rounded-md" loading="lazy" alt="" src="https://img2022.cnblogs.com/blog/1934119/202211/1934119-20221109160918264-990133187.png"&gt;
 &lt;/figure&gt;
-&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/multi-author/featured.png"/></item><item><title>ROS2(Galactic) URDF教程</title><link>https://michaelyang628.github.io/blog/docs/partials/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/partials/</guid><description>&lt;h2 class="relative group"&gt;从零开始构建机器人可视的模型
+&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/multi-author/featured.png"/></item><item><title>ROS2(Jazzy Jalisco) URDF教程</title><link>https://michaelyang628.github.io/blog/docs/partials/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/partials/</guid><description>&lt;h2 class="relative group"&gt;从零开始构建机器人可视的模型
 &lt;div id="从零开始构建机器人可视的模型" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none"&gt;
@@ -160,7 +160,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/span&gt;
 &lt;/h2&gt;
 &lt;p&gt;在本教程中，我们将构建一个机器人可视的模型，该模型看起来很像&lt;strong&gt;R2D2&lt;/strong&gt;。
-在后面的教程中，你将学习如何清晰地表达模型，添加一些物理属性，并使用xacro生成更整洁的代码，但目前，我们将重点关注视觉几何结构的正确性。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/partials/featured.svg"/></item><item><title>ROS2(Galactic) Launch系统</title><link>https://michaelyang628.github.io/blog/docs/thumbnails/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/thumbnails/</guid><description>&lt;p&gt;发射&lt;/p&gt;
+在后面的教程中，你将学习如何清晰地表达模型，添加一些物理属性，并使用xacro生成更整洁的代码，但目前，我们将重点关注视觉几何结构的正确性。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/partials/featured.png"/></item><item><title>ROS2(Galactic) Launch系统</title><link>https://michaelyang628.github.io/blog/docs/thumbnails/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/thumbnails/</guid><description>&lt;p&gt;发射&lt;/p&gt;
 &lt;h2 class="relative group"&gt;创建启动文件
 &lt;div id="创建启动文件" class="anchor"&gt;&lt;/div&gt;
 &lt;span

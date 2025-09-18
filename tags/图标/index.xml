@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>图标 on Demiox</title><link>https://michaelyang628.github.io/blog/tags/%E5%9B%BE%E6%A0%87/</link><description>Recent content in 图标 on Demiox</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2025 Demiox</copyright><lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://michaelyang628.github.io/blog/tags/%E5%9B%BE%E6%A0%87/index.xml" rel="self" type="application/rss+xml"/><item><title>ros2_control教程</title><link>https://michaelyang628.github.io/blog/docs/shortcodes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/shortcodes/</guid><description>&lt;p&gt;ros2_control是使用（ros2）对机器人进行（实时）控制的框架。
 它的包是ros（机器人操作系统）中使用的ros_control包的重写。
-ros2_control的目标是简化新硬件的集成并克服一些缺点。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/shortcodes/featured.svg"/></item><item><title>ROS2(Galactic) URDF教程</title><link>https://michaelyang628.github.io/blog/docs/partials/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/partials/</guid><description>&lt;h2 class="relative group"&gt;从零开始构建机器人可视的模型
+ros2_control的目标是简化新硬件的集成并克服一些缺点。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/shortcodes/featured.svg"/></item><item><title>ROS2(Jazzy Jalisco) URDF教程</title><link>https://michaelyang628.github.io/blog/docs/partials/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/partials/</guid><description>&lt;h2 class="relative group"&gt;从零开始构建机器人可视的模型
 &lt;div id="从零开始构建机器人可视的模型" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none"&gt;
@@ -8,7 +8,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/span&gt;
 &lt;/h2&gt;
 &lt;p&gt;在本教程中，我们将构建一个机器人可视的模型，该模型看起来很像&lt;strong&gt;R2D2&lt;/strong&gt;。
-在后面的教程中，你将学习如何清晰地表达模型，添加一些物理属性，并使用xacro生成更整洁的代码，但目前，我们将重点关注视觉几何结构的正确性。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/partials/featured.svg"/></item><item><title>图标</title><link>https://michaelyang628.github.io/blog/samples/icons/</link><pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/samples/icons/</guid><description>&lt;p&gt;Blowfish 内置了许多 &lt;a
+在后面的教程中，你将学习如何清晰地表达模型，添加一些物理属性，并使用xacro生成更整洁的代码，但目前，我们将重点关注视觉几何结构的正确性。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/partials/featured.png"/></item><item><title>图标</title><link>https://michaelyang628.github.io/blog/samples/icons/</link><pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/samples/icons/</guid><description>&lt;p&gt;Blowfish 内置了许多 &lt;a
 href="https://fontawesome.com/icons"
 target="_blank"
 &gt;FontAwesome 6&lt;/a&gt; 中的图标。你可以使用 &lt;a
