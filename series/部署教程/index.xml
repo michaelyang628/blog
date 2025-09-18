@@ -47,7 +47,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;strong&gt;rosdep&lt;/strong&gt;是一个命令行实用程序，用于识别和安装构建或安装包的依赖项。
 在以下情况下可以调用或被调用：&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/homepage-layout/featured.png"/></item><item><title>ros2_control教程</title><link>https://michaelyang628.github.io/blog/docs/shortcodes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/shortcodes/</guid><description>&lt;p&gt;ros2_control是使用（ros2）对机器人进行（实时）控制的框架。
 它的包是ros（机器人操作系统）中使用的ros_control包的重写。
-ros2_control的目标是简化新硬件的集成并克服一些缺点。&lt;/p&gt;</description></item><item><title>部署轻量应用服务器教程</title><link>https://michaelyang628.github.io/blog/docs/front-matter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/front-matter/</guid><description>&lt;p&gt;确保软件包列表和已安装的软件包是最新的。
+ros2_control的目标是简化新硬件的集成并克服一些缺点。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/shortcodes/featured.png"/></item><item><title>部署轻量应用服务器教程</title><link>https://michaelyang628.github.io/blog/docs/front-matter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/front-matter/</guid><description>&lt;p&gt;确保软件包列表和已安装的软件包是最新的。
 &lt;code&gt;sudo apt update&lt;/code&gt;
 &lt;code&gt;sudo apt upgrade&lt;/code&gt;&lt;/p&gt;
 &lt;h2 class="relative group"&gt;安装和配置php
