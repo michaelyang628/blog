@@ -54,23 +54,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%ae%a2%e6%88%b7%e7%ab%af" aria-label="锚点"&gt;#&lt;/a&gt;
 &lt;/span&gt;
 &lt;/h3&gt;
-&lt;h2 class="relative group"&gt;任务
-&lt;div id="任务" class="anchor"&gt;&lt;/div&gt;
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none"&gt;
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e4%bb%bb%e5%8a%a1" aria-label="锚点"&gt;#&lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;
-&lt;h3 class="relative group"&gt;搭建DHCP服务
-&lt;div id="搭建dhcp服务" class="anchor"&gt;&lt;/div&gt;
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none"&gt;
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e6%90%ad%e5%bb%badhcp%e6%9c%8d%e5%8a%a1" aria-label="锚点"&gt;#&lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;DHCP（Dynamic Host Configuration Protocol 动态主机配置协议），是一个用于IP网络的网络协议，位于OSI模型的应用层，使用UDP协议工作，基于UDP的67和68端口进行通信。
-主要有两个用途：&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/installation/featured.png"/></item><item><title>多作者</title><link>https://michaelyang628.github.io/blog/samples/multiple-authors/</link><pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/samples/multiple-authors/</guid><description>如何使用多个作者的简单示例。</description></item><item><title>缩略图</title><link>https://michaelyang628.github.io/blog/samples/thumbnail_sample/</link><pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/samples/thumbnail_sample/</guid><description>一个展示如何在你的文章中开始使用缩略图的快速示例。</description></item><item><title>图标</title><link>https://michaelyang628.github.io/blog/samples/icons/</link><pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/samples/icons/</guid><description>&lt;p&gt;Blowfish 内置了许多 &lt;a
+&lt;p&gt;进入主板的BIOS设置中&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/installation/featured.png"/></item><item><title>多作者</title><link>https://michaelyang628.github.io/blog/samples/multiple-authors/</link><pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/samples/multiple-authors/</guid><description>如何使用多个作者的简单示例。</description></item><item><title>缩略图</title><link>https://michaelyang628.github.io/blog/samples/thumbnail_sample/</link><pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/samples/thumbnail_sample/</guid><description>一个展示如何在你的文章中开始使用缩略图的快速示例。</description></item><item><title>图标</title><link>https://michaelyang628.github.io/blog/samples/icons/</link><pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/samples/icons/</guid><description>&lt;p&gt;Blowfish 内置了许多 &lt;a
 href="https://fontawesome.com/icons"
 target="_blank"
 &gt;FontAwesome 6&lt;/a&gt; 中的图标。你可以使用 &lt;a
