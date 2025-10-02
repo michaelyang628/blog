@@ -54,7 +54,26 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%ae%a2%e6%88%b7%e7%ab%af" aria-label="锚点"&gt;#&lt;/a&gt;
 &lt;/span&gt;
 &lt;/h3&gt;
-&lt;p&gt;进入主板的BIOS设置中&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/installation/featured.png"/></item><item><title>本地部署AI大模型</title><link>https://michaelyang628.github.io/blog/docs/advanced-customisation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/advanced-customisation/</guid><description>&lt;p&gt;您可以通过多种方式对 Blowfish 进行高级自定义。请阅读下文，了解更多可自定义的内容以及实现想要效果的最佳方法。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/advanced-customisation/featured.png"/></item><item><title>code-chimp.com</title><link>https://michaelyang628.github.io/blog/users/4bc0917e04c4859cedb32a48bff27846/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/users/4bc0917e04c4859cedb32a48bff27846/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/users/4bc0917e04c4859cedb32a48bff27846/feature.jpg"/></item><item><title>ros2(galactic)初学者教程(上)</title><link>https://michaelyang628.github.io/blog/docs/getting-started/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/getting-started/</guid><description>&lt;h2 class="relative group"&gt;配置环境
+&lt;p&gt;进入主板的BIOS设置中&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/installation/featured.png"/></item><item><title>本地部署AI大模型</title><link>https://michaelyang628.github.io/blog/docs/advanced-customisation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/advanced-customisation/</guid><description>&lt;h3 class="relative group"&gt;按照&lt;a
+href="https://dgpu-docs.intel.com/driver/client/overview.html"
+target="_blank"
+&gt;消费级显卡驱动安装指南&lt;/a&gt;来安装GPU驱动
+&lt;div id="按照消费级显卡驱动安装指南来安装gpu驱动" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e6%8c%89%e7%85%a7%e6%b6%88%e8%b4%b9%e7%ba%a7%e6%98%be%e5%8d%a1%e9%a9%b1%e5%8a%a8%e5%ae%89%e8%a3%85%e6%8c%87%e5%8d%97%e6%9d%a5%e5%ae%89%e8%a3%85gpu%e9%a9%b1%e5%8a%a8" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;
+&lt;h4 class="relative group"&gt;Installing Client GPUs on Ubuntu Desktop
+&lt;div id="installing-client-gpus-on-ubuntu-desktop" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#installing-client-gpus-on-ubuntu-desktop" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;刷新本地软件包索引,并安装用于管理软件仓库的软件包&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/advanced-customisation/featured.png"/></item><item><title>code-chimp.com</title><link>https://michaelyang628.github.io/blog/users/4bc0917e04c4859cedb32a48bff27846/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/users/4bc0917e04c4859cedb32a48bff27846/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/users/4bc0917e04c4859cedb32a48bff27846/feature.jpg"/></item><item><title>ros2(galactic)初学者教程(上)</title><link>https://michaelyang628.github.io/blog/docs/getting-started/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/getting-started/</guid><description>&lt;h2 class="relative group"&gt;配置环境
 &lt;div id="配置环境" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none"&gt;
