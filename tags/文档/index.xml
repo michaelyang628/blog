@@ -125,4 +125,14 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;ROS（Robot Operating System，机器人操作系统）是一个面向于机器人的开源元操作系统。
-它提供了操作系统应有的核心服务，为软件开发人员提供了一系列库和工具，用于构建机器人应用程序。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/series/featured.png"/></item><item><title>托管和部署</title><link>https://michaelyang628.github.io/blog/docs/hosting-deployment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/hosting-deployment/</guid><description>&lt;p&gt;有许多方法可以部署基于 Blowfish 主题的 Hugo 网站。这个主题几乎在任何部署场景中都很灵活。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/hosting-deployment/featured.svg"/></item><item><title>merox.dev</title><link>https://michaelyang628.github.io/blog/users/080a851b486ff5be4201f6fbe1f9616d/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/users/080a851b486ff5be4201f6fbe1f9616d/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/users/080a851b486ff5be4201f6fbe1f9616d/feature.jpg"/></item></channel></rss>
+它提供了操作系统应有的核心服务，为软件开发人员提供了一系列库和工具，用于构建机器人应用程序。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/series/featured.png"/></item><item><title>托管和部署</title><link>https://michaelyang628.github.io/blog/docs/hosting-deployment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/hosting-deployment/</guid><description>&lt;h3 class="relative group"&gt;Q1'11
+&lt;div id="q111" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#q111" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;a
+href="https://www.intel.com/content/www/us/en/products/sku/52214/intel-core-i72600k-processor-8m-cache-up-to-3-80-ghz/specifications.html"
+target="_blank"
+&gt;Intel® Core™ i7-2600K Processor&lt;/a&gt;&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/hosting-deployment/featured.svg"/></item><item><title>merox.dev</title><link>https://michaelyang628.github.io/blog/users/080a851b486ff5be4201f6fbe1f9616d/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/users/080a851b486ff5be4201f6fbe1f9616d/</guid><description/><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/users/080a851b486ff5be4201f6fbe1f9616d/feature.jpg"/></item></channel></rss>
