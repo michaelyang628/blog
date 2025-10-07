@@ -78,19 +78,8 @@ tf2在时间上缓冲的树结构中维持坐标帧之间的关系，并允许�
 &lt;figure&gt;
 &lt;img class="my-0 rounded-md" loading="lazy" alt="" src="https://img2022.cnblogs.com/blog/1934119/202211/1934119-20221109160918264-990133187.png"&gt;
 &lt;/figure&gt;
-&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/multi-author/featured.png"/></item><item><title>托管和部署</title><link>https://michaelyang628.github.io/blog/docs/hosting-deployment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/hosting-deployment/</guid><description>&lt;p&gt;&lt;a
-href="https://en.wikipedia.org/wiki/PlayStation_2"
+&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/multi-author/featured.png"/></item><item><title>托管和部署</title><link>https://michaelyang628.github.io/blog/docs/hosting-deployment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/hosting-deployment/</guid><description>&lt;p&gt;WEGA (中国翻译品牌名称为贵翔) ，是日本索尼于1997推出电视机品牌。WEGA的名称是来自天空中闪亮的织女星（Vega）而来。
+&lt;a
+href="https://crtdatabase.com/crts/sony/sony-kv-36xbr200"
 target="_blank"
-&gt;Sony PlayStation 2&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;| Version | Year| Line code| Transfer rate| (per lane)[i][ii] Throughput (GB/s)[i][iii] ×1 | ×2 ×4 ×8 ×16
-| 1.0 | 2003 NRZ 8b/10b 2.5 GT/s 0.25 0.5 1 2 4
-| 2.0 | 2007 5.0 GT/s 0.5 1 2 4 8
-| 3.0 | 2010 128b/130b 8.0 GT/s 0.985 1.969 3.938 7.877 15.754
-| 4.0 | 2017 16.0 GT/s 1.969 3.938 7.877 15.754 31.508
-| 5.0 | 2019 32.0 GT/s 3.938 7.877 15.754 31.508 63.015
-| 6.0 | 2022 PAM-4
-| FEC | 1b/1b
-| 242B/256B | FLIT 64.0 GT/s 7.563 15.125 30.25 60.5 121
-| 7.0 | 2025 128.0 GT/s 15.125 30.25 60.5 121 242
-| 8.0 | 2028
-| (planned) | 256.0 GT/s 30.25 60.5 121 242 484&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/hosting-deployment/featured.svg"/></item><item><title>Firebase: 阅读量 &amp; 点赞量</title><link>https://michaelyang628.github.io/blog/docs/firebase-views/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/firebase-views/</guid><description>&lt;p&gt;为了能够在网站中获取动态数据，我们支持了对 Firebase 的集成。这将允许你在列表和文章中使用阅读量功能。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/firebase-views/featured.svg"/></item></channel></rss>
+&gt;Sony KV-36XBR200&lt;/a&gt;&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/hosting-deployment/featured.svg"/></item><item><title>Firebase: 阅读量 &amp; 点赞量</title><link>https://michaelyang628.github.io/blog/docs/firebase-views/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/firebase-views/</guid><description>&lt;p&gt;为了能够在网站中获取动态数据，我们支持了对 Firebase 的集成。这将允许你在列表和文章中使用阅读量功能。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/firebase-views/featured.svg"/></item></channel></rss>
