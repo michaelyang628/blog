@@ -80,7 +80,7 @@ tf2在时间上缓冲的树结构中维持坐标帧之间的关系，并允许�
 &lt;/figure&gt;
 &lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/multi-author/featured.png"/></item><item><title>托管和部署</title><link>https://michaelyang628.github.io/blog/docs/hosting-deployment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/hosting-deployment/</guid><description>&lt;p&gt;&lt;a
 href=""&gt;SONY FH-E939CD&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;WEGA (中国翻译品牌名称为贵翔) ，是日本索尼于1997推出电视机品牌。WEGA的名称是来自天空中闪亮的织女星（Vega）而来。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/hosting-deployment/featured.svg"/></item><item><title>Firebase: 阅读量 &amp; 点赞量</title><link>https://michaelyang628.github.io/blog/docs/firebase-views/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/firebase-views/</guid><description>&lt;h2 class="relative group"&gt;&lt;a
+&lt;p&gt;WEGA (中国翻译品牌名称为贵翔) ，是日本索尼于1997推出电视机品牌。WEGA的名称是来自天空中闪亮的织女星（Vega）而来。&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/hosting-deployment/featured.svg"/></item><item><title>搭建家庭工作站</title><link>https://michaelyang628.github.io/blog/docs/firebase-views/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/firebase-views/</guid><description>&lt;h2 class="relative group"&gt;&lt;a
 href="https://www.intel.cn/content/www/cn/zh/ark/products/series/123588/intel-core-x-series-processors.html"
 target="_blank"
 &gt;英特尔® 酷睿™ X 系列处理器&lt;/a&gt;
@@ -415,7 +415,106 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;a
+&lt;h2 class="relative group"&gt;&lt;a
 href="https://www.intel.cn/content/www/cn/zh/products/sku/122941/intel-x299-chipset/specifications.html"
 target="_blank"
-&gt;英特尔® X299 芯片组&lt;/a&gt;&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/firebase-views/featured.svg"/></item></channel></rss>
+&gt;英特尔® X299 芯片组&lt;/a&gt;
+&lt;div id="英特尔-x299-芯片组" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e8%8b%b1%e7%89%b9%e5%b0%94-x299-%e8%8a%af%e7%89%87%e7%bb%84" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;厂商&lt;/th&gt;
+&lt;th&gt;旗舰型号&lt;/th&gt;
+&lt;th&gt;上市时间&lt;/th&gt;
+&lt;th&gt;上市价格（USD）&lt;/th&gt;
+&lt;th&gt;供电规格&lt;/th&gt;
+&lt;th&gt;PCIe 扩展（物理插槽 / 电气配置）&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;华硕（ASUS）&lt;/td&gt;
+&lt;td&gt;ROG RAMPAGE VI EXTREME&lt;/td&gt;
+&lt;td&gt;2017年6月&lt;/td&gt;
+&lt;td&gt;$549&lt;/td&gt;
+&lt;td&gt;10+2 相数字供电，DrMOS，双 8-pin EPS&lt;/td&gt;
+&lt;td&gt;4× PCIe 3.0 x16（x16/x16/x16/x16 或 x16/x16/x8/x8，依赖 CPU 通道，无 PLX）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;微星（MSI）&lt;/td&gt;
+&lt;td&gt;MEG X299 CREATION&lt;/td&gt;
+&lt;td&gt;2018年1月&lt;/td&gt;
+&lt;td&gt;$599&lt;/td&gt;
+&lt;td&gt;12+2 相数字供电，双 8-pin EPS&lt;/td&gt;
+&lt;td&gt;4× PCIe 3.0 x16（x16/x16/x8/x8，CPU 直连，无 PLX）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;技嘉（GIGABYTE）&lt;/td&gt;
+&lt;td&gt;AORUS X299X MASTER&lt;/td&gt;
+&lt;td&gt;2019年6月&lt;/td&gt;
+&lt;td&gt;$549&lt;/td&gt;
+&lt;td&gt;16+2 相数字供电（IR35201），双 8-pin EPS&lt;/td&gt;
+&lt;td&gt;4× PCIe 3.0 x16（x16/x16/x8/x8，支持 Cascade Lake-X，无 PLX）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;华擎（ASRock）&lt;/td&gt;
+&lt;td&gt;X299 Taichi CLX&lt;/td&gt;
+&lt;td&gt;2019年5月&lt;/td&gt;
+&lt;td&gt;$449&lt;/td&gt;
+&lt;td&gt;12+2 相数字供电（60A DrMOS），双 8-pin EPS&lt;/td&gt;
+&lt;td&gt;4× PCIe 3.0 x16（x16/x16/x8/x8，CPU 直连，无 PLX）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;厂商&lt;/th&gt;
+&lt;th&gt;ATX 旗舰型号（X299）&lt;/th&gt;
+&lt;th&gt;上市时间&lt;/th&gt;
+&lt;th&gt;上市价格（USD）&lt;/th&gt;
+&lt;th&gt;供电规格&lt;/th&gt;
+&lt;th&gt;PCIe 扩展（物理插槽 / 电气配置）&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;华硕（ASUS）&lt;/td&gt;
+&lt;td&gt;ROG STRIX X299-E GAMING&lt;/td&gt;
+&lt;td&gt;2017年6月&lt;/td&gt;
+&lt;td&gt;$299&lt;/td&gt;
+&lt;td&gt;8+2 相数字供电（DrMOS），双 8-pin EPS&lt;/td&gt;
+&lt;td&gt;3× PCIe 3.0 x16（x16/x8/x8，CPU 直连，无 PLX）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;微星（MSI）&lt;/td&gt;
+&lt;td&gt;X299 TOMAHAWK AC&lt;/td&gt;
+&lt;td&gt;2017年6月&lt;/td&gt;
+&lt;td&gt;$279&lt;/td&gt;
+&lt;td&gt;11+2 相数字供电（Core Boost），双 8-pin EPS&lt;/td&gt;
+&lt;td&gt;3× PCIe 3.0 x16（x16/x8/x8，CPU 直连）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;技嘉（GIGABYTE）&lt;/td&gt;
+&lt;td&gt;AORUS X299 AORUS GAMING 7&lt;/td&gt;
+&lt;td&gt;2017年6月&lt;/td&gt;
+&lt;td&gt;$299&lt;/td&gt;
+&lt;td&gt;12+2 相数字供电（PowIRstage），双 8-pin EPS&lt;/td&gt;
+&lt;td&gt;3× PCIe 3.0 x16（x16/x8/x8，CPU 直连）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;华擎（ASRock）&lt;/td&gt;
+&lt;td&gt;X299 Steel Legend&lt;/td&gt;
+&lt;td&gt;2019年5月&lt;/td&gt;
+&lt;td&gt;$249&lt;/td&gt;
+&lt;td&gt;11+2 相数字供电（60A DrMOS），双 8-pin EPS&lt;/td&gt;
+&lt;td&gt;3× PCIe 3.0 x16（x16/x8/x8，CPU 直连）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;英特尔® 酷睿™ i7-6950X 处理器至尊版&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/firebase-views/featured.svg"/></item></channel></rss>
