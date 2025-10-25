@@ -367,7 +367,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;td&gt;微星（MSI）&lt;/td&gt;
 &lt;td&gt;MEG X299 CREATION&lt;/td&gt;
 &lt;td&gt;2018年1月&lt;/td&gt;
-&lt;td&gt;$599&lt;/td&gt;
+&lt;td&gt;$998&lt;/td&gt;
 &lt;td&gt;12+2 相数字供电，双 8-pin EPS&lt;/td&gt;
 &lt;td&gt;4× PCIe 3.0 x16（x16/x16/x8/x8，CPU 直连，无 PLX）&lt;/td&gt;
 &lt;/tr&gt;
@@ -375,7 +375,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;td&gt;技嘉（GIGABYTE）&lt;/td&gt;
 &lt;td&gt;AORUS X299X MASTER&lt;/td&gt;
 &lt;td&gt;2019年6月&lt;/td&gt;
-&lt;td&gt;$549&lt;/td&gt;
+&lt;td&gt;$990&lt;/td&gt;
 &lt;td&gt;16+2 相数字供电（IR35201），双 8-pin EPS&lt;/td&gt;
 &lt;td&gt;4× PCIe 3.0 x16（x16/x16/x8/x8，支持 Cascade Lake-X，无 PLX）&lt;/td&gt;
 &lt;/tr&gt;
@@ -411,7 +411,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;微星（MSI）&lt;/td&gt;
-&lt;td&gt;X299 TOMAHAWK AC&lt;/td&gt;
+&lt;td&gt;MSI X299 CREATOR&lt;/td&gt;
 &lt;td&gt;2017年6月&lt;/td&gt;
 &lt;td&gt;$279&lt;/td&gt;
 &lt;td&gt;11+2 相数字供电（Core Boost），双 8-pin EPS&lt;/td&gt;
@@ -427,7 +427,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;华擎（ASRock）&lt;/td&gt;
-&lt;td&gt;X299 Steel Legend&lt;/td&gt;
+&lt;td&gt;X299 Taichi&lt;/td&gt;
 &lt;td&gt;2019年5月&lt;/td&gt;
 &lt;td&gt;$249&lt;/td&gt;
 &lt;td&gt;11+2 相数字供电（60A DrMOS），双 8-pin EPS&lt;/td&gt;
