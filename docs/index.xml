@@ -66,9 +66,10 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#installing-client-gpus-on-ubuntu-desktop" aria-label="锚点"&gt;#&lt;/a&gt;
 &lt;/span&gt;
 &lt;/h4&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;刷新本地软件包索引,并安装用于管理软件仓库的软件包&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/advanced-customisation/featured.png"/></item><item><title>ros2(galactic)初学者教程(上)</title><link>https://michaelyang628.github.io/blog/docs/getting-started/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/getting-started/</guid><description>&lt;h2 class="relative group"&gt;配置环境
+&lt;p&gt;&lt;a
+href="https://ppio.com/blogs/post/ppiowang-wen-yu-lun-gpude-guo-qu-xian-zai-he-wei-lai-aigcji-shi-si-kao-zhi-suan-li-zhe-xue"
+target="_blank"
+&gt;https://ppio.com/blogs/post/ppiowang-wen-yu-lun-gpude-guo-qu-xian-zai-he-wei-lai-aigcji-shi-si-kao-zhi-suan-li-zhe-xue&lt;/a&gt;&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://michaelyang628.github.io/blog/docs/advanced-customisation/featured.png"/></item><item><title>ros2(galactic)初学者教程(上)</title><link>https://michaelyang628.github.io/blog/docs/getting-started/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://michaelyang628.github.io/blog/docs/getting-started/</guid><description>&lt;h2 class="relative group"&gt;配置环境
 &lt;div id="配置环境" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none"&gt;
